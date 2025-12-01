@@ -1,0 +1,25 @@
+{
+  "language": {
+    "feature": "es",
+    "binding": "en"
+  },
+  "bindingCulture": {
+    "name": "es-ES"
+  },
+  "runtime": {
+    "stopAtFirstError": false,
+    "missingOrPendingStepsOutcome": "Inconclusive"
+  },
+  "trace": {
+    "traceSuccessfulSteps": true,
+    "traceTimings": true,
+    "minTracedDuration": "0:0:0.1",
+    "stepDefinitionSkeletonStyle": "RegexAttribute"
+  },
+  "generator": {
+    "allowDebugGeneratedFiles": false,
+    "allowRowTests": true,
+    "generateAsyncTests": true,
+    "addNonParallelizableMarkerForTags": []
+  }
+}
